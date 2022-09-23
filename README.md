@@ -38,5 +38,6 @@
 ---
 
 ### :fire: My Stats :
-
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimondrive&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</div>
